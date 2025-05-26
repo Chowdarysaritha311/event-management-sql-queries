@@ -1,0 +1,1 @@
+This is the result for Exercise 23. Replace with actual SQL query output.
